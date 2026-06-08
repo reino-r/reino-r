@@ -23,8 +23,8 @@ An Information Systems student passionate about building smart, data-driven solu
 
 ### 📈 GitHub Stats
 
-![Reino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reino-r&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reino-r&layout=compact&theme=radial)
+....
+....
 
 ---
 
